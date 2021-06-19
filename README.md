@@ -1,6 +1,7 @@
 ### Sobre Mim 
 Maker e desenvolvedor apaixonado por tecnologia, sempre curioso para saber como tudo funciona. Graduado em Tecnologia de Sistemas para Internet atualmente estudando Inteligência Artificial e Machine Learning com (Tensorflow). Desenvolvedor Fullstack, Mobile e DevOps em constante aprendizado.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinbustillos)](https://github.com/edwinbustillos/github-readme-stats)
 <!--
 **edwinbustillos/edwinbustillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
