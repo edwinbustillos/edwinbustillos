@@ -17,7 +17,6 @@ Maker e desenvolvedor apaixonado por tecnologia, sempre curioso para saber como 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinbustillos&&layout=compact)](https://github.com/edwinbustillos/github-readme-stats)
 <!--
-**edwinbustillos/edwinbustillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
