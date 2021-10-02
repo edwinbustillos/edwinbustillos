@@ -2,7 +2,7 @@
 Maker e desenvolvedor apaixonado por tecnologia, sempre curioso para saber como tudo funciona. Graduado em Tecnologia de Sistemas para Internet atualmente estudando Inteligência Artificial e Machine Learning com (Tensorflow). Desenvolvedor Fullstack, Mobile e DevOps em constante aprendizado.
 
 ### Skills
-| Back / Front | Frameworks    | Data       | Infra | 
+| Back / Front | Frameworks    | Data       | DevOps | 
 | --- | --- | --- | --- |
 | Javascript | ReactJS      | MySQL      | Linux      |
 | Node       | React Native | SQL Server | Docker     |
